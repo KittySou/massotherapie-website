@@ -9,6 +9,8 @@ I will be using this README file as a journal to keep track of my progress.
 <br>
 
 - [ ] 1. Web prototype and frontend design using Figma
+- [ ] 2. Get Kelly's approval of the prototype
+- [x] 3. Create Rails app + repo
 
 <!---
 This README would normally document whatever steps are necessary to get the
