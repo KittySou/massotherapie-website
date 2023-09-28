@@ -3,8 +3,9 @@
 ## Web app for massage therapy services
 
 Here is one of my first projects post-bootcamp.<br>
-As I go I am re-learning how to build a web app using Ruby, Rails, Javascript, CSS, etc.<br>
-It is also to help out a friend of mine to boost the promotion of her services.
+It is also to help out a friend of mine to boost the promotion of her services.<br>
+As I go I am re-learning how to build a web app using Figma, Ruby, Rails, Javascript, CSS, etc.<br>
+I will be using this README file as a journal to keep track of the progress.
 <br>
 
 1. Web prototype and frontend design using Figma
