@@ -5,10 +5,10 @@
 Here is one of my first projects post-bootcamp.<br>
 It is also to help out a friend of mine to boost the promotion of her services.<br>
 As I go I am re-learning how to build a web app using Figma, Ruby, Rails, Javascript, CSS, etc.<br>
-I will be using this README file as a journal to keep track of the progress.
+I will be using this README file as a journal to keep track of my progress.
 <br>
 
-1. Web prototype and frontend design using Figma
+- [ ] 1. Web prototype and frontend design using Figma
 
 <!---
 This README would normally document whatever steps are necessary to get the
