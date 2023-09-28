@@ -2,8 +2,9 @@
 
 ## Web app for massage therapy services
 
-Here is one of my first projects post-bootcamp.
-As I go I am re-learning how to build a web app using Ruby, Rails, Javascript, CSS, etc.
+Here is one of my first projects post-bootcamp.<br>
+As I go I am re-learning how to build a web app using Ruby, Rails, Javascript, CSS, etc.<br>
+It is also to help out a friend of mine to boost the promotion of her services.
 
 <!---
 This README would normally document whatever steps are necessary to get the
